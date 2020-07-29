@@ -1,0 +1,22 @@
+{
+  "name": "question_4",
+  "endpoint": "cal/okpy-test/su00/practice_midterm_1_question_4",
+  "decryption_keypage": "https://ok-exam-key-server.apps.cs61a.org/",
+  "src": [
+    "question_4.py"
+  ],
+  "tests": {
+    "tests/question_4.py": "ok_test"
+  },
+  "default_tests": [
+    "question_4"
+  ],
+  "protocols": [
+    "restore",
+    "file_contents",
+    "analytics",
+    "unlock",
+    "grading",
+    "backup"
+  ]
+}

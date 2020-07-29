@@ -1,0 +1,6 @@
+'pascal-correct', (0, 70)
+'repeated-correct', (512, 70)
+'Recursion-correct', (1024, 70)
+'Self-Reference-correct', (1536, 70)
+'num_eights-correct', (2048, 70)
+'pingpong-correct', (2560, 70)
